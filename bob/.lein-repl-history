@@ -1,0 +1,7 @@
+last "foo"
+(.endsWith "foo" "o")
+quit
+(not (nil))
+(not nil)
+(not "foo")
+quit
